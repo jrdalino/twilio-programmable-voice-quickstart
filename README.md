@@ -1,7 +1,7 @@
 # Twilio Programmable Voice Quickstart
-This is a simple tutorial on how to make and receive calls using Twilio and Pythng Flask
+This is a simple tutorial on how to make and receive calls using Twilio and Python Flask
 
-## Prerequsites:
+## Prerequisites
 
 ### Sign up for Twilio and get a phone number
 
@@ -31,7 +31,7 @@ $ source venv/bin/activate
 (venv) $ pip install flask
 (venv) $ flask --version
 Flask 1.0.2
-Python 2.7.10 (default, Aug 17 2018, 19:45:58) 
+Python 3.7.3 (default, Aug 17 2018, 19:45:58) 
 [GCC 4.2.1 Compatible Apple LLVM 10.0.0 (clang-1000.0.42)]
 ```
 
