@@ -12,7 +12,6 @@ Python 3.7.3
 ```
 ### Virtualenv
 ```
-$ python3 -m pip install --user virtualenv
 $ virtualenv --version
 16.4.3
 $ echo 'venv' > .gitignore
